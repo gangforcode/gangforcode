@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...
 - 💞️ 
-- 📫 Hreach me .. https://gangforcode.com/contact-us/
+- 📫 Reach me .. https://gangforcode.com/contact-us/
 
 <!---
 gangforcode/gangforcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
